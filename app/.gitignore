@@ -1,0 +1,4 @@
+sdlenv/
+__pycache__/
+*.pyc
+.vscode/
